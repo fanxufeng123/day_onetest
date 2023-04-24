@@ -30,6 +30,9 @@ public class PersonTest {
         System.out.println(222);
         System.out.println(222);
         System.out.println(222);
+        System.out.println(333);
+        System.out.println(333);
+        System.out.println(333);
 
 
     }
